@@ -1,0 +1,7 @@
+joblib
+streamlit 
+numpy 
+scikit_image 
+h5py==2.10.0
+matplotlib 
+Pillow 
