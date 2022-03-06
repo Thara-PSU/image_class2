@@ -1,8 +1,4 @@
-joblib
 streamlit 
 numpy 
-scikit_image 
-h5py
-matplotlib 
 Pillow 
-tensorflow 
+tensorflow
