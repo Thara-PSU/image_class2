@@ -37,7 +37,7 @@ st.title('Butterfly tumor classifier')
 
 file = st.file_uploader("Upload an image of an MRI", type=["jpg", "png"])
 
-if st.button("Push for classication", key='classify'):
+if st.button("Push for classification", key='classify'):
 	if file is None:
 		st.text('Waiting for upload....')
 
