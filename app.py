@@ -33,7 +33,7 @@ def predict_class(image, model):
 
 
 model = load_model()
-st.title('Butterfly tumor classifier')
+st.title('Classification between Glioblastoma and Lymphoma using Deep learning')
 
 file = st.file_uploader("Upload an image of an MRI", type=["jpg", "png"])
 
